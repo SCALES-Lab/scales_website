@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About the SCALES Lab",
+      "description": "This page provides information about who we are and what we do.",
+      "author": [],
+      "contents": "\nPrinciple Investigators\nDR. WILLIAM MURRAH\nDr. Murrah is an Assistant Professor of Quantitative Methods at Auburn University. He teaches introductory and advanced research methods courses in the College of Education. His expertise is in cognitive development and learning.\nHis research is focused on understanding how our early experiences, motor learning, motivation, and emotions impact how we learn and think in formal and informal educational settings.\nHe uses large scale data sets including Early Childhood Longitudinal Studies (ECLS) and the National Longitudinal Study of Youth (NLSY), and is currently also working with the Adolescent Brain Cognitive Development (ABCD) data.\nDr. Murrah is a Co-Founder of the Quantitative Methods in Educational Research (QMER) learning community, and is a co-director of the SCALES Lab.\nPrior to joining Auburn University Dr. Murrah earned his Ph.D. in Educational Psychology from the University of Virginia, where he also completed a postdoctoral fellowship and worked as a research scientist.\nDR. SVETLANA CHESSER\nSvetlana Chesser is an Assistant Clinical Professor of Educational Psychology at Auburn University. Her research examines how early childhood experiences shape children and adolescents’ cognition and behavior. Using data from Adolescent Brain Cognitive Development (ABCD) and the Early Childhood Longitudinal Study (ECLS), she is seeking to find out how executive functioning subcomponents (i.e., working memory, cognitive flexibility, and inhibitory control) develop in response to high-stress environments. The goal is to pinpoint cognitive and behavioral adaptations to harsh environments in youth who have experienced adversity, so we can design educational interventions that work with, instead of against, these adaptations.\nPrior to joining the faculty at Auburn, Dr. Chesser taught psychology at the University of Tennessee at Chattanooga and served for 10 years as 8-12 science teacher. She earned her PhD in Educational Psychology from Auburn University in 2013 and holds master’s degrees in Biology and Chemistry from her native country Belarus.\nAs a member of QMER, Dr. Chesser coordinates outreach efforts and directs studies at the SCALES Lab.\nAffiliated Faculty and Researchers\nStudents\nProjects\n\n\n\n",
+      "last_modified": "2020-12-08T16:33:16-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "SCALES Lab",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\nPURPOSE\n\nWe study learning and development of cognitive skills in formal and informal educational systems. Our goal is to understand disparities in educational opportunities, and their relation to cognitive development.\nAnother goal of ours is to use this knowledge to develop and evaluate interventions that promote cognitive development, particularly in disadvantaged students.\nCOGNITIVE SKILLS\n\nWe define cognitive skills to include traditional academic skills such as reading and math skills, but also other important skills related to executive functioning, critical reasoning, motivation, and social skills, among others.\nMETHODS\n\nWe utilize a broad set of research methods to understand these issues, but our general approach involves model building and testing in efforts to understand the underlying processes that support successful learning and development.\n\n\n\n",
+      "last_modified": "2020-12-08T16:33:16-06:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "ABCD Projects",
+      "description": "This page will be about the ABCD data Projects",
+      "author": [],
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2020-12-08T16:33:17-06:00"
+    },
+    {
+      "path": "publications.html",
+      "title": "Publications",
+      "description": "Select publications by members related to the work we do\n",
+      "author": [],
+      "contents": "\n\n\n\nBrock, Laura, William M. Murrah, Elizabeth A. Cottone, Andrew J. Mashburn, and W. Grissmer David. 2018. “An After-School Intervention Targeting Executive Function and Visuospatial Skills Also Improves Classroom Behavior.” International Journal of Behavioral Development, 1–11. https://doi.org/10.1177/0165025417738057.\n\n\nCameron, C. E., E. A. Cottone, W. M. Murrah, and D. W. Grissmer. 2016. “How Are Motor Skills Linked to Children’s School Performance and Academic Achievement?” Child Development Perspectives. https://doi.org/10.1111/cdep.12168.\n\n\nCameron, Claire E., Laura L. Brock, William M. Murrah, Lindsay H. Bell, Samantha L. Worzalla, David Grissmer, and Frederick J. Morrison. 2012. “Fine Motor Skills and Executive Function Both Contribute to Kindergarten Achievement.” Child Development 83 (4): 1229–44. https://doi.org/10.1111/j.1467-8624.2012.01768.x.\n\n\nChesser, Svetlana, William M. Murrah, and A. Forbes Sean. 2020. “Impact of Personality on Choice of Instructional Delivery and Students’ Performance.” American Journal of Distance Education. https://doi.org/10.1080/08923647.2019.1705116.\n\n\nMurrah, William M. 2020. “Compound Bias Due to Measurement Error When Comparing Regression Coefficients.” Educational and Psychological Measurement, 80 (3): 548–77. https://doi.org/10.1177/0013164419874494.\n\n\n\n\n",
+      "last_modified": "2020-12-08T16:33:17-06:00"
+    }
+  ],
+  "collections": []
+}
