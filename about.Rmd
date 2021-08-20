@@ -13,10 +13,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ### DR. WILLIAM MURRAH
 
 <aside>
-![](images/Murrah_profile.webp){width=100%}
+![](images/Murrah_profile.jpg){width=100%}
 </aside>
 
-Dr. Murrah is an Assistant Professor of Quantitative Methods at Auburn University. He teaches introductory and advanced research methods courses in the College of Education. His expertise is in cognitive development and learning. 
+Dr. Murrah is an Associate Professor of Quantitative Methods at Auburn University. He teaches introductory and advanced research methods courses in the College of Education. His expertise is in cognitive development and learning. 
 
 His research is focused on understanding how our early experiences, motor learning, motivation, and emotions impact how we learn and think in formal and informal educational settings.
 
